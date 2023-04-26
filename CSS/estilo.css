@@ -154,3 +154,41 @@ section .imgtarjeta {
 .seccion2 {
     width: 3000px;
 }
+
+.seccion3 {
+    height: 130px;
+    display: flex;
+    width: 100%;
+    background-color: #51619E;
+    align-items: center;
+    /*padding:5px 10%;*/
+    justify-content: space-around;
+}
+
+section .contenedorimg {
+    
+    display: flex;
+    height: 70px;
+    justify-content: center;
+    /*border-right: 3px black solid;*/
+
+}
+
+.logoamazon {
+    border-right: 3px black solid;
+    padding: 0 70px;  
+}
+
+.logogoogle {
+    border-right: 3px black solid;
+    padding: 0 70px;  
+}
+
+.logofacebook {
+    border-right: 3px black solid;
+    padding: 0 70px;  
+}
+
+.logosamsung {
+    padding: 0 70px;  
+}
