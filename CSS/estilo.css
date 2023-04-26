@@ -62,3 +62,95 @@ li {
     display: flex;
     gap: 55px;
 }
+main {
+    padding: 0 5%;
+    display: flex;
+}
+
+section .primerdiv {
+    display: flex;
+
+}
+
+div .primerh2 {
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+}
+
+div .imgh2 {
+    height: 50px;
+    padding: 0 30px;
+}
+
+section .segundodiv {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+
+}
+
+div .primerh1 {
+    font-size: 60px;
+}
+
+div .p {
+    font-size: 20px;
+}
+
+section .tercerdiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boton2 {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border: black solid;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+.boton3 {
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 7px;
+    border: solid;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+.flecha {
+    height: 100px;
+    padding-left: 300px;
+}
+
+.cuartodiv {
+    display: flex;
+    height: 150px;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+}
+
+div .divlgp {
+    width: 25%;
+    height: auto;
+}
+
+.Tarjetaa {
+    justify-content: center;
+}
+
+section .imgtarjeta {
+    align-items: center;
+    height: 500px;
+    rotate: -30deg;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.seccion2 {
+    width: 3000px;
+}
